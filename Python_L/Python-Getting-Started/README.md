@@ -11,6 +11,11 @@
   - Exception handling
 
 # Function,Files,Yield,and Lambda
+  - Our App - PyStudentManager
+    - Name: PyStudentManager
+    - Student Details
+    - Easy to Expand
+    - From Console to a Web App
 
 
 
